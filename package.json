@@ -1,0 +1,29 @@
+{
+  "name": "sillyname",
+  "version": "0.0.1",
+  "description": "A silly random name generator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thedeveloper/sillyname"
+  },
+  "keywords": [
+    "node",
+    "silly",
+    "name",
+    "generator",
+    "random"
+  ],
+  "author": "Geoff Wagstaff",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~1.6.0",
+    "should": "~1.2.0"
+  }
+}

@@ -1,4 +1,8 @@
-sillyname
-=========
+### Silly name
 
-Random and most importantly silly name generator for node
+A random name generator.
+
+````
+var generateName = require('sillyname');
+var sillyName = generateName();
+````
