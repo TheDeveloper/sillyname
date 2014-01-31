@@ -22,7 +22,7 @@
   ],
   "author": "Geoff Wagstaff",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "mocha": "~1.6.0",
     "should": "~1.2.0"
   }
