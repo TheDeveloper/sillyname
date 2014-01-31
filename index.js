@@ -21,3 +21,5 @@ function generateStupidName(){
 }
 
 module.exports = generateStupidName;
+module.exports.randomNoun = randomNoun;
+module.exports.randomAdjective = randomAdjective;
