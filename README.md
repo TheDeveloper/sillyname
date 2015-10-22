@@ -1,8 +1,10 @@
 ### Silly name
 
+<img src="https://travis-ci.org/TheDeveloper/sillyname.svg?branch=master" />
+
 A random name generator.
 
-````
+```javascript
 var generateName = require('sillyname');
 var sillyName = generateName();
 ````
