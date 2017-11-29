@@ -1,10 +1,13 @@
 {
   "name": "sillyname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A silly random name generator",
   "main": "index.js",
   "directories": {
     "test": "test"
+  },
+  "bin": {
+    "sillyname": "cli.js"
   },
   "scripts": {
     "test": "mocha --reporter list"
@@ -20,7 +23,7 @@
     "generator",
     "random"
   ],
-  "author": "Geoff Wagstaff",
+  "author": "Geoff Wagstaff, CLI addition by Alex Hall",
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.6.0",
